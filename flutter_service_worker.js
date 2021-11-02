@@ -3,7 +3,7 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "ddd2703803f64cf05664d72ef1c5814f",
+  "assets/AssetManifest.json": "5b0a3e93bdc616aaf86e4b277ac2d0ee",
 "assets/assets/icons/download.png": "b838cde319b5a43a360f2d339e9553cd",
 "assets/assets/icons/github.png": "4592fbbbdb41ac335f6bd16f246c718e",
 "assets/assets/icons/linkedin.png": "bb7da33333c357d8de747c8534cfd4e0",
@@ -24,7 +24,6 @@ const RESOURCES = {
 "assets/assets/images/html5.png": "7d3430b5ae2b5df7afc484500be5923e",
 "assets/assets/images/java.png": "2f9a11dcc2e4c3b89d8f6016befa0d7e",
 "assets/assets/images/javascript.png": "5dfc64a8540882ccfe060ea64954b977",
-"assets/assets/images/jsp.png": "d41d8cd98f00b204e9800998ecf8427e",
 "assets/assets/images/kubernetes.png": "e95f0b5a5a58a4607223ca0810e4a618",
 "assets/assets/images/linux.png": "d0d0de690bb316f62896860b2675784c",
 "assets/assets/images/mysql.png": "52255c5944c1c7cce2be81c1573e060d",
@@ -45,10 +44,11 @@ const RESOURCES = {
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "2949ab9f54e0263a934d29826d530775",
-"/": "2949ab9f54e0263a934d29826d530775",
-"main.dart.js": "235441f54cafeb5bef3435ae1b32fab9",
+"index.html": "0ec0762aee7accb87556db7326896f14",
+"/": "0ec0762aee7accb87556db7326896f14",
+"main.dart.js": "6c97c64d6792e72cf03ab2196c21a603",
 "manifest.json": "6b7e74f52d4ab907b1455a7d398d0f20",
+"README.md": "c53000c238de58bf124f7c4ade23a3bc",
 "version.json": "f2879aea34826fc1706a44d54695e173"
 };
 
